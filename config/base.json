@@ -1,0 +1,27 @@
+{
+  "seed": 1,
+  "ticks": 10000,
+  "threads": 8,
+  "N_firms": 50000,
+  "S": 2,
+
+  "A": [[0.1, 0.2], [0.05, 0.1]],
+  "l": [1.0, 1.2],
+  "delta": 0.01,
+  "kappa_cap": 10.0,
+
+  "init_price": [1.0, 1.0],
+  "price_adj": 0.05,
+  "household_c_share": [0.5, 0.5],
+  "save_rate": 0.2,
+
+  "labor_supply": 60000.0,
+  "init_wage": 1.0,
+  "wage_adj": 0.02,
+  "u_ref": 0.08,
+
+  "inv_rate": 0.5,
+  "markup": [0.1, 0.1],
+
+  "inv_target_theta": 0.2
+}
